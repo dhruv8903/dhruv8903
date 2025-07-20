@@ -4,14 +4,15 @@
 **dhruv8903/dhruv8903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on LLM model for emotion recognitions through facial expressions
-- 🌱 I’m currently learning LLM model.
-- 👯 I’m looking to collaborate on Serenity-AI 
-- ⚡ Fun fact: I am lazy but passionate about work.
---># 💫 About Me:
+-->#
+🔭 I’m currently working on LLM model for emotion recognitions through facial expressions
+🌱 I’m currently learning LLM model.
+👯 I’m looking to collaborate on Serenity-AI 
+⚡ Fun fact: I am lazy but passionate about work.
+💫 About Me:
 I am a tech enthusiast.
-I have also build serenity-ai.xyz website whose github link is (https://github.com/Ninjax26/SERENITY-AI) in colaboration with Ninjax26
+I have also build https://www.serenity-ai.xyz/ website.
+Github link is (https://github.com/Ninjax26/SERENITY-AI) in colaboration with Ninjax26.
 
 
 ## 🌐 Socials:
