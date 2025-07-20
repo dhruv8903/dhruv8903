@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 -->#
-🔭 I’m currently working on LLM model for emotion recognitions through facial expressions
-🌱 I’m currently learning LLM model.
-👯 I’m looking to collaborate on Serenity-AI 
-⚡ Fun fact: I am lazy but passionate about work.
-💫 About Me:
-I am a tech enthusiast.
-I have also build https://www.serenity-ai.xyz/ website.
-Github link is (https://github.com/Ninjax26/SERENITY-AI) in colaboration with Ninjax26.
+🔭 I’m currently working on LLM model for emotion recognitions through facial expressions</br>
+🌱 I’m currently learning LLM model.</br>
+👯 I’m looking to collaborate on Serenity-AI</br> 
+⚡ Fun fact: I am lazy but passionate about work.</br>
+💫 About Me:</br>
+I am a tech enthusiast.</br>
+I have also build https://www.serenity-ai.xyz/ website.</br>
+Github link is (https://github.com/Ninjax26/SERENITY-AI) in colaboration with Ninjax26.</br>
 
 
 ## 🌐 Socials:
